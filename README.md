@@ -39,16 +39,13 @@ Git Workflow Diagram:
     $ git merge master #merge master into feature_branch
 
 #### 2. Complete the feature branch:
-##### A. When all work in the branch is complete, push your local feature_branch to your GitHub
-repo:
+##### A. When all work in the branch is complete, push your local feature_branch to your GitHub repo:
     $ git push origin feature_branch
 
-##### B. Go to your github account, select your feature_branch in the drop down and make a pull
-request from that branch.
+##### B. Go to your github account, select your feature_branch in the drop down and make a pull request from that branch.
 ­    Pull request reviewed & accepted b/c you rock! Yay!
 
-##### C. Then go back to your local master branch & do a git pull from the upstream repo to get any
-other changes from others
+##### C. Then go back to your local master branch & do a git pull from the upstream repo to get any other changes from others
     $ git checkout master
     $ git pull upstream master
 
