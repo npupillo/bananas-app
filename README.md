@@ -43,7 +43,7 @@ Git Workflow Diagram:
     $ git push origin feature_branch
 
 ##### B. Go to your github account, select your feature_branch in the drop down and make a pull request from that branch.
-­    Pull request reviewed & accepted b/c you rock! Yay!
+­    - Pull request reviewed & accepted b/c you rock! Yay!
 
 ##### C. Then go back to your local master branch & do a git pull from the upstream repo to get any other changes from others
     $ git checkout master
