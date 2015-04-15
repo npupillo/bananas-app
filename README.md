@@ -22,10 +22,9 @@ Git Workflow Diagram:
 
 #### 1. Feature branch workflow:
 ##### A. Review all the branch names in the repo you just forked:
-###### $ git branch ­a
+####### $ git branch ­a
 
-##### B. Create a local feature branch to work on, using a unique name that does not already exist
-from above:
+##### B. Create a local feature branch to work on, using a unique name that does not already exist from above:
     $ git branch ­b joe­feature­branch
 
 ##### C. While in your local feature branch, do your feature work.
