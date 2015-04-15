@@ -18,29 +18,29 @@ Table Structure and Model Relationships:
 Git Workflow Diagram:
 ![Git Workflow Diagram](README_images/bananas-git-workflow.jpeg)
 
-Git Development Workflow, overview:
+### Git Development Workflow, overview:
 
-1. Feature branch workflow:
-  A. Review all the branch names in the repo you just forked:
-    $ git branch ­a
+#### 1. Feature branch workflow:
+##### A. Review all the branch names in the repo you just forked:
+###### $ git branch ­a
 
-  B. Create a local feature branch to work on, using a unique name that does not already exist
+##### B. Create a local feature branch to work on, using a unique name that does not already exist
 from above:
     $ git branch ­b joe­feature­branch
 
-  C. While in your local feature branch, do your feature work.
+##### C. While in your local feature branch, do your feature work.
 
-  D. Continuously add & commit as needed:
+##### D. Continuously add & commit as needed:
     $ git add <file or files>
     $ git commit ­m "commit message"
-  E. Pull from the upstream master to your local master when pull requests from team members
+##### E. Pull from the upstream master to your local master when pull requests from team members
 are accepted:
     $ git checkout master
     $ git pull upstream master
     $ git checkout feature_branch
     $ git merge master #merge master into feature_branch
 
-2. Complete the feature branch:
+#### 2. Complete the feature branch:
   A. When all work in the branch is complete, push your local feature_branch to your GitHub
 repo:
     $ git push origin feature_branch
