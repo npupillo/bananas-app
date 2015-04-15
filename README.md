@@ -5,10 +5,10 @@
 
 ## Project Planning
 Documentation:
-![Project Specs and Runbook PDF](README_images/Bananas-ProjectSpecsandRunbook.pdf)
+![Project Specs and Runbook PDF](http://beigesavage.com/ga/Bananas-ProjectSpecsandRunbook.pdf)
 
 Tracking Workload:
-![Sprints PDF](README_images/Bananas-Sprints.pdf)
+![Sprints PDF](http://beigesavage.com/ga/Bananas-Sprints.pdf)
 
 ## Pre Planning
 Table Structure and Model Relationships:
