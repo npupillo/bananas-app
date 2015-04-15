@@ -19,6 +19,7 @@ Git Workflow Diagram:
 ![Git Workflow Diagram](README_images/bananas-git-workflow.jpeg)
 
 Git Development Workflow, overview:
+
 1. Feature branch workflow:
   A. Review all the branch names in the repo you just forked:
     $ git branch ­a
@@ -48,7 +49,7 @@ repo:
 request from that branch.
 ­    Pull request reviewed & accepted b/c you rock! Yay!
 
-C. Then go back to your local master branch & do a git pull from the upstream repo to get any
+  C. Then go back to your local master branch & do a git pull from the upstream repo to get any
 other changes from others
     $ git checkout master
     $ git pull upstream master
