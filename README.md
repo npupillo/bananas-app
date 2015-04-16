@@ -1,7 +1,9 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
 # Bananas App!  Movie API Mini-Project with Nicole, Cara & Gina
-- API server deployed to Heroku: https://bananas-movie-reviews.herokuapp.com/movies
+- html, css, jquery, javascript, handlebars, json, ajax, ruby on rails api
+- Front End deployed to GitHub Pages: http://npupillo.github.io/bananas-app
+- Back End API server deployed to Heroku: https://bananas-movie-reviews.herokuapp.com/movies
 
 ## Project Planning
 Documentation:
